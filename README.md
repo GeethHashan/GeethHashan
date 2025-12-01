@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
-<h3 align="center" style="color:#1F6FEB;">💙 Code | Learn | Build | Repeat 💙</h3>
+<h3 align="center" style="color:#1F6FEB;">💙 “Code. Learn. Improve. Repeat.” 💙</h3>
