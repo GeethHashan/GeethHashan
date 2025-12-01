@@ -42,7 +42,7 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,python,java,c,mysql,mongodb,postgres,oracle,bootstrap,tailwind,figma,git,github,postman,tensorflow,opencv,spring,nestjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,python,java,c,mysql,mongodb,postgres,bootstrap,tailwind,figma,git,github,postman,tensorflow,opencv,spring,nestjs&theme=dark" />
 </p>
 
 ---
