@@ -27,7 +27,7 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="linkedin.com/in/geeth-hashan-66b12b250" target="_blank">
+  <a href="https://www.linkedin.com/in/geeth-hashan-66b12b250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Geeth%20Hashan-1F6FEB?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://instagram.com/_unseengold_" target="_blank">
