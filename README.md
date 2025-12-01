@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Geeth Hashan</h1>
-<h3 align="center">A passionate Full-stack developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center"> Driven Computer Science undergraduate from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&color=1F6FEB&lines=Full+Stack+Developer;Machine+Learning+Student;Tech+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&color=1F6FEB&lines=Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## 🌱 About Me
 
 - 🌱 I’m currently learning **Machine Learning**
-- 💻 Interested in **Web, Mobile, and AI Development**
+- 💻 Interested in **Web Development | Software Engineering | Large Language Models (LLMs) & Agentic AI | Artificial Intelligence & Machine Learning | Cloud Computing**
 - 📫 How to reach me: **ghashan54@gmail.com**
 - 🤝 Open to **Internships & Collaborations**
 
@@ -43,7 +43,7 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,python,java,c,mysql,mongodb,postgres,oracle,bootstrap,tailwind,figma,git,github,postman,matlab,tensorflow,opencv,spring,nestjs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,python,java,c,mysql,mongodb,postgres,oracle,bootstrap,tailwind,figma,git,github,postman,tensorflow,opencv,spring,nestjs&theme=light" />
 </p>
 
 ---
