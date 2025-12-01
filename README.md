@@ -2,7 +2,7 @@
 <h3 align="center">Driven Computer Science Undergraduate from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&color=58A6FF&lines=Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&color=58A6FF&lines=Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things;" />
 </p>
 
 <p align="center">
