@@ -18,7 +18,7 @@
 
 ✔ :school: I am a CS undergraduate at Uva Wellassa University of Sri Lanka <br>
 ✔ :computer: I’m currently learning **Machine Learning** <br>
-✔ :nerd_face: Interested in **Web Development | Software Engineering | LLMs & Agentic AI | Artificial <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intelligence & Machine Learning | Cloud Computing** <br>
+✔ :nerd_face: Interested in **Web Development | Software Engineering | Cloud Computing | LLMs & Agentic AI | Artificial Intelligence & Machine Learning** <br>
 ✔ :thinking: Looking for an **Internship**
 
 <br><br><br>
